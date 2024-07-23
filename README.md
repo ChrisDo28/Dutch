@@ -2,7 +2,7 @@
 
 To install this mod copy and paste below link into the mod section of Tech Giants Game. 
 ```
-https://rebelliumgames.github.io/TechGiants-Mod-Template/repository.json
+[https://chrisdo28.github.io/Dutch/repository.json]
 ``` 
 
 ## Steps to create your own mod
